@@ -1,0 +1,1 @@
+print("kimochi oppai dessu")
